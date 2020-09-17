@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:8080/web/",
+    "api": "http://localhost:8080/api/",
+    "browser": "Chrome",
+    "machine": "JARVIS",
+    "log": "./logfile",
+    "db_host": "localhost",
+    "db_user": "login",
+    "db_pass": "password",
+    "db_name": "union_reporting"
+
+}

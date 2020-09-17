@@ -1,0 +1,10 @@
+{
+  "variant": 1,
+  "login": "login",
+  "password": "password",
+  "project_nex": "Nexage",
+  "project_nex_id": 1,
+  "project_name": "Night-testing0258",
+  "test_name": "WebAppTest-final",
+  "test_method": "DB injection method"
+}
